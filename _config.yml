@@ -1,7 +1,9 @@
 ### Site Settings ###
 title               : Tech Enthusiast
 description         : >-
-                      Writing software is like solving puzzles with creativity. You have to find the right pieces and fit them together in a smart way
+                      Writing software is like solving puzzles with creativity.
+                      You have to find the right pieces and fit them together
+                      in a smart way
 baseurl             : ""
 repository          : brandonladen/brandonladen.gihub.io
 remote_theme        : YoussefRaafatNasry/portfolYOU
