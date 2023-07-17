@@ -1,17 +1,16 @@
-- title: Student, Harvard CS
-  from: 2014
-  to: 2018
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Student, MASENO UNIVERSITY, KISUMU
+  from: 2021
+  to: present (Year 3)
+  description: Pursuing a Bachelor's degree in Information Technology at Maseno University,
+               with an expected graduation year of 2025.
 
-- title: Software Engineer, Google, UK
-  from: 2018
-  to: present
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-               sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-               Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-               nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-               reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+- title: Software Engineer, ALX-Africa, Remote
+  from: 2023
+  to: present (Month 4, Sprint II)
+  description: Enrolled in a rigorous 12-month program in Software Engineering that has deepened
+               my passion for writing software that creatively solves problems.
+
+- title: Student, St. Mary's Yala
+  from: 2017
+  to: 2021
+  description: I did my 4 years Secondary education and attained grade B plus in my K.C.S.E examinations
