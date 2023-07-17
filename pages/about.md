@@ -8,7 +8,17 @@ weight: 3
 # **About Me**
 
 Hi I am **{{ site.author.name }}** :wave:,<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A Tech Enthusiast who is passionate about writing software that solves problems in a creative way. I have always harbored a passion for technology, a trait that is reflected in my academic and professional journey.
+
+As a current student at ALX Africa, I am enrolled in a rigorous 12-month program in Software Engineering that has deepened my passion for writing software that creatively solves problems. Additionally, I am pursuing a Bachelor's degree in Information Technology at Maseno University, a prestigious institution in Kisumu, Kenya.
+
+My love for technology extends beyond the classrooms; I have participated in Software Development Hackathon challenges and developed effective solutions, like a missing children search tool, which is currently being incubated into the Children Protection Information Management System (CPIMS).
+
+One of my key strengths is my ability to lead and inspire others. I am often appointed as a leader in various gatherings due to my willingness to help guide and support others. I believe that a true leader is someone who leads by example, and I strive to embody this philosophy in all aspects of my life.
+
+My everyday motivation is to never quit, no matter how difficult a challenge may seem. Instead, I believe in taking a step back, resting, and then returning with renewed focus and determination.
+
+I am confident that my passion for software engineering, leadership skills, and unwavering determination make me a valuable asset to any team.
 
 <div class="row">
 {% include about/skills.html title="Programming Skills" source=site.data.programming-skills %}
