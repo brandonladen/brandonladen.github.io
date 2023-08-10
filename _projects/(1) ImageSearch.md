@@ -16,10 +16,10 @@ NB: The image used below is just a random image from the internet and the detail
 
 Search
 ![Search](/image/image1.png)
-## Results (if there is a match)
+Results (if there is a match)
 ![Results (if there is a match)](/image/image2.png)
-## Record missing child
+Record missing child
 ![Record missing child](/image/image3.png)
-## API usage
+API usage
 ![API usage](/image/image4.png)
 {% include elements/button.html link="https://github.com/Sylvester254/ImageSearch" text="Learn More" %}
