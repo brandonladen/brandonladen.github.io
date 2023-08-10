@@ -14,7 +14,7 @@ description: Missing children image recognition application
 
 NB: The image used below is just a random image from the internet and the details are also NOT REAL, I just guessed for demonstration purposes.
 
-## **Search**
+Search
 ![Search](/image/image1.png)
 ## Results (if there is a match)
 ![Results (if there is a match)](/image/image2.png)
