@@ -14,6 +14,8 @@ As a current student at ALX Africa, I am enrolled in a rigorous 12-month program
 
 My love for technology extends beyond the classrooms; I have participated in Software Development Hackathon challenges and developed effective solutions, like a missing children search tool, which is currently being incubated into the Children Protection Information Management System (CPIMS).
 
+I had the privilege of participating in the CA Cyber Security Bootcamp and Hackathon Series 2023, Kisumu edition. During this event, we successfully overcame various challenges, effectively demonstrating our prowess in the field of cybersecurity, while also fostering a spirit of innovation.
+
 One of my key strengths is my ability to lead and inspire others. I am often appointed as a leader in various gatherings due to my willingness to help guide and support others. I believe that a true leader is someone who leads by example, and I strive to embody this philosophy in all aspects of my life.
 
 My everyday motivation is to never quit, no matter how difficult a challenge may seem. Instead, I believe in taking a step back, resting, and then returning with renewed focus and determination.
